@@ -14,7 +14,7 @@
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
 #   Choose from `minimal`, `ocean`, `forest`, `coffee`, `dark`, `1950s`, 'apogee', 'strawberry'.
-theme = "1950s"
+theme = "ocean"
 
 # Enable users to switch between day and night mode?
 day_night = true
