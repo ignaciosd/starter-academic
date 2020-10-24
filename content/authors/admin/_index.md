@@ -72,10 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Dr. Ignacio Segovia-Dominguez, a postdoctoral fellow in the department of mathematical sciences at UT Dallas, develops methodologies for the prompt detection and forecasting of infectious diseases, such as current COVID-19 pandemic.
-
-In collaboration with members of Prof. Yulia Gel's research team, Dr. Segovia-Dominguez works on a novel operational predictive methodology for individual-specific disease dynamics by fusing modern epidemiological models with dynamic interaction networks, socio-demographic data, and environmental information. 
-
-Recently, Dr. Segovia-Dominguez presented some of their findings in the JSM 2020, the largest gathering of statisticians, organised by the American Statistical Association. Additionally, Ignacio collaborated in two call for research proposals, submitted at NSF and NASA, both of which were granted. NSF granted-project focuses on combining mechanistic epidemiological models with data-driven machine learning techniques to improve forecasting of COVID-19 dynamics. NASA granted-project focuses on evaluate utility of topological predictors from NASA’s satellite observations to model the current and future COVID-19 spatio-temporal progression and clinical severity of the disease.
-
-His current research involves merging different strategies, from mathematical sciences and epidemiology, to avert of infectious diseases in communities which will enhance our ability to develop risk prevention strategies for the large part of the population. 
+Ignacio Segovia-Dominguez is currently a postdoctoral research fellow at the University of Texas at Dallas, developing novel methods for modelling and predicting dynamics of infectious diseases such as COVID-19. He participates in a number of collaborative research projects with UoManitoba/Canada, CIMAT/Mexico, Portland State, RTI and JPL NASA Caltech. Ignacio's research interests include topological and geometric methods in statistics and machine learning, analysis of complex dynamic networks, and evolutionary computation. Dr. Ignacio Segovia-Dominguez received his master's and doctoral degrees from the Department of Computer Science at the Center for Research in Mathematics (CIMAT) in Guanajuato, Mexico. His broader research agenda spans machine learning, optimization, and statistical foundations of data science. 
