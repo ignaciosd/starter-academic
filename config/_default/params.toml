@@ -102,7 +102,7 @@ address = {street = "800 W. Campbell Road", city = "Richardson/Dallas", region =
 coordinates = {latitude = "32.9877068171463", longitude = "-96.74905478953067"}
 
 # Directions for visitors to locate you.
-directions = "Enter Founders Building (FO)"
+directions = "Enter Mathematical Sciences department"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -115,8 +115,8 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
+  #{icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
+  #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
