@@ -11,10 +11,10 @@ role: Postdoctoral Research Associate
 # Organizations/Affiliations
 organizations:
 - name: University of Texas at Dallas
-  url: ""
+  url: "https://www.utdallas.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests...
 
 interests:
 - Topological Machine Learning
