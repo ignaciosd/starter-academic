@@ -1,6 +1,6 @@
 ---
 # Display name
-title: ISD
+title: Ignacio Segovia-Dominguez
 
 # Is this the primary user of the site?
 superuser: true
