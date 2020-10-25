@@ -22,7 +22,7 @@ height = "200px"
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#B992F5"  # An HTML color value.
+  overlay_color = "#7760F9"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.6  # Darken the image. Value in range 0-1.
 
@@ -39,7 +39,7 @@ height = "200px"
   content = "I am left aligned :smile:"
   align = "left"
 
-  overlay_color = "#B992F5"  # An HTML color value.
+  overlay_color = "#7760F9"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.8  # Darken the image. Value in range 0-1.
 
@@ -48,7 +48,7 @@ height = "200px"
   content = "I am right aligned :smile:"
   align = "right"
 
-  overlay_color = "#B992F5"  # An HTML color value.
+  overlay_color = "#7760F9"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 +++
