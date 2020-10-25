@@ -102,7 +102,7 @@ address = {street = "800 W. Campbell Road", city = "Richardson/Dallas", region =
 coordinates = {latitude = "32.9877068171463", longitude = "-96.74905478953067"}
 
 # Directions for visitors to locate you.
-directions = "Enter Mathematical Sciences department"
+directions = "Mathematical Sciences department"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
