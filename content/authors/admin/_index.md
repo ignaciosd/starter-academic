@@ -10,8 +10,7 @@ role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: University of Texas at Dallas
-  Mathematical Science Department
+- name: University of Texas at Dallas (Math Sci.)
   url: "https://www.utdallas.edu"
 
 # Short bio (displayed in user profile at end of posts)
