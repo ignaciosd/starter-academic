@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Dallas, Texas, U.S."
   date_start = "2019-11-01"
   date_end = ""
-  description = """ """
+#  description = """ """
 
 [[experience]]
   title = "Postdoctoral Fellow"
