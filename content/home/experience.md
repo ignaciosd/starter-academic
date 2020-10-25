@@ -25,9 +25,10 @@ date_format = "Jan 2006"
   date_start = "2019-11-01"
   date_end = ""
 #  description = """ """
+
 [[experience]]
   title = "Postdoctoral Fellow"
-  company = "Center for Research in Mathematics"
+  company = "Center for Research in Mathematics, A.C."
   company_url = "https://www.cimat.mx/en"
   location = "Guanajuato, México"
   date_start = "2018-02-01"
