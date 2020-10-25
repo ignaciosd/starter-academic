@@ -12,6 +12,3 @@ title = "Biography"
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
 +++
-## Heading 2
-Something
-Combined emphasis with **asterisks and _underscores_**.
