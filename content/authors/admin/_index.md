@@ -76,3 +76,6 @@ Ignacio Segovia-Dominguez is currently a postdoctoral research fellow at the Uni
 
 His research interests include topological and geometric methods in statistics and machine learning, analysis of complex dynamic networks, and evolutionary computation. Dr. Ignacio Segovia-Dominguez received his master's and doctoral degrees from the Department of Computer Science at the Center for Research in Mathematics (CIMAT) in Guanajuato, Mexico. Additionally, his broader research agenda spans machine learning, optimization, and statistical foundations of data science. 
 
+## Heading 2
+Something
+Combined emphasis with **asterisks and _underscores_**.
