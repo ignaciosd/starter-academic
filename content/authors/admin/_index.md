@@ -25,13 +25,13 @@ education:
   courses:
   - course: Ph.D. in Computer Science
     institution: Center for Research in Mathematics, Mexico
-    year: 2015-Dec
+    year: 2015/Dec
   - course: M.S. in Computer Sci. & Industrial Mathematics
     institution: Center for Research in Mathematics, Mexico
-    year: 2010-Dec
+    year: 2010/Dec
   - course: B.S. in Computational Systems Engineering
     institution: Instituto Tecnológico de Cancún, Mexico
-    year: 2008-Oct
+    year: 2008/Oct
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
