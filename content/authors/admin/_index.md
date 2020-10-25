@@ -42,10 +42,10 @@ social:
   icon_pack: fas
   link: 'mailto:ignacio.segoviadominguez@utdallas.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: dblp
-  icon_pack: ai
+  icon_pack: fas
   link: https://dblp.org/pid/80/9882.html
 - icon: google-scholar
-  icon_pack: ai
+  icon_pack: fas
   link: https://scholar.google.com/citations?user=w8oDyT4AAAAJ&hl=en
 - icon: github
   icon_pack: fab
