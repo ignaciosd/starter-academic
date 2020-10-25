@@ -24,7 +24,7 @@ height = "200px"
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#B992F5"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.4  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.6  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -41,7 +41,7 @@ height = "200px"
 
   overlay_color = "#B992F5"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.4  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.8  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Right"
@@ -50,5 +50,5 @@ height = "200px"
 
   overlay_color = "#B992F5"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.4  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.9  # Darken the image. Value in range 0-1.
 +++
