@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 3  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Recent News"
 subtitle = "[All news>>](/news)"
@@ -22,7 +22,7 @@ subtitle = "[All news>>](/news)"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "navy"
   
   # Background gradient.
   # gradient_start = "DarkGreen"
@@ -36,7 +36,7 @@ subtitle = "[All news>>](/news)"
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  # text_color_light = true
+  text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -50,4 +50,4 @@ subtitle = "[All news>>](/news)"
  css_class = ""
 +++
 
-{{< readfromfile "/content/newslist.dat" 5 >}} 
+{{< readfromfile "/content/newslist.dat" 3 >}} 
