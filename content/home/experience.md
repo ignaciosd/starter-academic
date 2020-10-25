@@ -25,7 +25,6 @@ date_format = "Jan 2006"
   date_start = "2019-11-01"
   date_end = ""
 #  description = """ """
-
 [[experience]]
   title = "Postdoctoral Fellow"
   company = "Center for Research in Mathematics"
@@ -33,7 +32,7 @@ date_format = "Jan 2006"
   location = "Guanajuato, México"
   date_start = "2018-02-01"
   date_end = "2019-10-31"
-  description = """ """
+#  description = """ """
 
 [[experience]]
   title = "Lecturer"
@@ -42,6 +41,15 @@ date_format = "Jan 2006"
   location = "Guanajuato, México"
   date_start = "2015-08-01"
   date_end = "2017-07-31"
-  description = """ """
+#  description = """ """
+
+[[experience]]
+  title = "Teaching Fellow"
+  company = "University of Guanajuato"
+  company_url = "https://www.ugto.mx/en/"
+  location = "Guanajuato, México"
+  date_start = "2015-08-01"
+  date_end = "2015-12-15"
+#  description = """ """
 
 +++
