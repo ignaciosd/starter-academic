@@ -67,9 +67,9 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
 Ignacio Segovia-Dominguez is currently a postdoctoral research fellow at the University of Texas at Dallas, developing novel methods for modelling and predicting dynamics of infectious diseases such as COVID-19. He participates in a number of collaborative research projects with UoManitoba/Canada, CIMAT/Mexico, Portland State, RTI and JPL NASA Caltech. 
