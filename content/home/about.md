@@ -11,4 +11,18 @@ title = "Biography"
 # This should be the username of a profile in your `content/authors/` folder.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
+
+## Heading 2
+Italics with _underscores_.
+
+Bold with **asterisks**.
+
+Combined emphasis with **asterisks and _underscores_**.
+
+Strikethrough with ~~two tildes~~.
+
+- [x] Write math example
+- [x] Write diagram example
+- [ ] Do something else
+
 +++
