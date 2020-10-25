@@ -59,10 +59,6 @@ social:
 #   icon_pack: ai
 #   link: files/cv.pdf
 
-## Heading 2
-Something
-Combined emphasis with **asterisks and _underscores_**.
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
