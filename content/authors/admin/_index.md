@@ -46,7 +46,7 @@ social:
   link: https://dblp.org/pid/80/9882.html
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=w8oDyT4AAAAJ&view_op=list_works&sortby=pubdate
+  link: https://scholar.google.com/citations?user=w8oDyT4AAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/ignaciosd
