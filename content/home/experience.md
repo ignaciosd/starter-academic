@@ -35,4 +35,13 @@ date_format = "Jan 2006"
   date_end = "2019-10-31"
   description = """ """
 
+[[experience]]
+  title = "Lecturer"
+  company = "National Technological Institute of Mexico - Campus ITESG"
+  company_url = "https://www.itesg.edu.mx"
+  location = "Guanajuato, México"
+  date_start = "2015-08-01"
+  date_end = "2017-07-31"
+  description = """ """
+
 +++
