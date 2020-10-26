@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "The Hidden Project"
-summary: "A summary...."
+title: "Multifractal Analysis"
+summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-10-25T12:39:29-05:00
+date: 2020-10-25T19:58:09-05:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -27,8 +27,8 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://wowchemy.com/docs/managing-content/#create-a-widget-page"
-url_pdf: "https://www.webfx.com/tools/emoji-cheat-sheet/"
+url_code: ""
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
@@ -39,3 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+We investigate flexible methodologies to better detect, and correctly model, hidden local trends in time series at different scales. The performance of our methods is assessed with extensive numerical experiments on benchmarks, but also is used to detect and characterize the scalar properties of the daily precipitation time series in meteorological stations of tropical regions. 
+
+_UG - UTDallas_
+

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "New EDA"
+title: "List of publications"
 authors: []
 date: 2020-10-25T12:45:42-05:00
 doi: ""
@@ -16,13 +16,17 @@ publishDate: 2020-10-25T12:45:42-05:00
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: " The name...."
-publication_short: " The short...."
+publication: ""
+publication_short: ""
 
-abstract: " Some abstract...."
+abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Access my complete list of publications via **Researchgate**, **DBLP** and **Google Scholar** websites; the url-links are conveniently located in my homepage.
+
+
+Member of various associations and research networks; e.g. _Applied Algebraic Topology Research Network (AATRN)_, _Sociedad Matematica Mexicana (SMM)_, _American Statistical Association (ASA)_, etc. Referee for Journals and Conferences; e.g. _IEEE-TR_, _CSDA_, _ACM-GECCO_, etc.
+"
 
 tags: []
 categories: []
@@ -36,13 +40,13 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://wowchemy.com/docs/managing-content/#create-a-widget-page
+url_pdf: 
 url_code:
 url_dataset:
-url_poster: https://www.webfx.com/tools/emoji-cheat-sheet/
+url_poster: 
 url_project:
 url_slides:
-url_source: https://mickaellalande.github.io/post/how-to-create-an-academic-github-page-with-hugo/
+url_source: 
 url_video:
 
 # Featured image
@@ -67,3 +71,9 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+Access my complete list of publications via **Researchgate**, **DBLP** and **Google Scholar** websites; the url-links are conveniently located in my homepage.
+
+Member of various associations and research networks; e.g. _Applied Algebraic Topology Research Network (AATRN)_, _Sociedad Matematica Mexicana (SMM)_, _American Statistical Association (ASA)_, etc.
+
+Referee for Journals and Conferences; e.g. _IEEE-TR_, _CSDA_, _ACM-GECCO_, etc.

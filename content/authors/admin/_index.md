@@ -14,7 +14,7 @@ organizations:
   url: "https://www.utdallas.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests...
+bio: My research interests include topological and geometric methods in statistics and machine learning, analysis of complex dynamic networks, and evolutionary computation.
 
 interests:
 - Topological Machine Learning
