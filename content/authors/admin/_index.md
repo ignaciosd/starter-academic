@@ -19,7 +19,7 @@ bio: My research interests include topological and geometric methods in statisti
 interests:
 - Topological Machine Learning
 - Dynamic Networks
-- Evolutonary Computation
+- Evolutionary Computation
 
 education:
   courses:
