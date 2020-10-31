@@ -74,6 +74,6 @@ slides: ""
 
 Access my complete list of publications via **Researchgate**, **DBLP** and **Google Scholar** websites; the url-links are conveniently located in my homepage.
 
-Member of various associations and research networks; e.g. _Applied Algebraic Topology Research Network (AATRN)_, _Sociedad Matematica Mexicana (SMM)_, _American Statistical Association (ASA)_, etc.
+Member of various associations and research networks; e.g. [_Applied Algebraic Topology Research Network (AATRN)_](https://topology.ima.umn.edu), _Sociedad Matematica Mexicana (SMM)_, _American Statistical Association (ASA)_, etc.
 
 Referee for Journals and Conferences; e.g. _IEEE-TR_, _CSDA_, _ACM-GECCO_, etc.
