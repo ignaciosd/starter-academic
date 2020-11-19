@@ -17,6 +17,16 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Collaborator / Visiting Researcher"
+  company = "NASA JPL Caltech"
+  company_url = "https://www.jpl.nasa.gov"
+  location = "Pasadena, California, U.S."
+  date_start = "2020-11-13"
+  date_end = ""
+#  description = """ """
+
 [[experience]]
   title = "ConTex Postdoctoral Researcher"
   company = "University of Texas at Dallas"

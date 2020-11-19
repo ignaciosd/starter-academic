@@ -34,9 +34,20 @@ height = "150px"
 #  cta_icon_pack = "ai"
 #  cta_icon = "acm"
 
+#[[item]]
+#  title = "" 
+#  content = ":sparkles: ConTex Newsletter :sparkles:"
+#  align = "center"  # Choose `center`, `left`, or `right`.
+
+#  # Overlay a color or image (optional).
+#  # Deactivate an option by commenting out the line, prefixing it with `#`.
+#  overlay_color = "#353C83"  # An HTML color value.
+#  overlay_img = ""  # Image path relative to your `static/media/` folder.
+#  overlay_filter = 0.6  # Darken the image. Value in range 0-1.
+
 [[item]]
 #  title = "" 
-  content = ":sparkles: ConTex Newsletter :sparkles:"
+  content = ":sparkles: Topological Machine Learning :sparkles:"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).

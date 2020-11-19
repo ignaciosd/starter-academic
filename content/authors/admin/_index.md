@@ -6,11 +6,11 @@ title: Ignacio Segovia-Dominguez
 superuser: true
 
 # Role/position
-role: Postdoctoral Research Associate
+role: Visiting Researcher / Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: University of Texas at Dallas (Mathematical Sciences)
+- name: NASA JPL Caltech / University of Texas at Dallas (Mathematical Sciences)
   url: "https://www.utdallas.edu"
 
 # Short bio (displayed in user profile at end of posts)
