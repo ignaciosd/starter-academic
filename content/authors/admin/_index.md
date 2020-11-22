@@ -73,7 +73,7 @@ highlight_name: false
 # - Visitors
 ---
 
-Ignacio Segovia-Dominguez is currently a postdoctoral research fellow at the University of Texas at Dallas, developing novel methods for modelling and predicting dynamics of infectious diseases such as COVID-19. He participates in a number of collaborative research projects with UoManitoba/Canada, CIMAT/Mexico, Portland State, RTI and JPL NASA Caltech. 
+Ignacio Segovia-Dominguez is currently a visiting researcher at NASA JPL Caltech and postdoctoral research fellow at the University of Texas at Dallas, developing novel methods for modelling and predicting dynamics of infectious diseases such as COVID-19. He participates in a number of collaborative research projects with UoManitoba/Canada, CIMAT/Mexico, Portland State, RTI and JPL NASA Caltech. 
 
 His research interests include topological and geometric methods in statistics and machine learning, analysis of complex dynamic networks, and evolutionary computation. Dr. Ignacio Segovia-Dominguez received his master's and doctoral degrees from the Department of Computer Science at the Center for Research in Mathematics (CIMAT) in Guanajuato, Mexico. Additionally, his broader research agenda spans machine learning, optimization, and statistical foundations of data science. 
 
