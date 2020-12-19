@@ -52,6 +52,8 @@ subtitle = ""
 
 **2020–2021 NASA 20-RRNES20-0021**. [Rapid Response and Novel Research in Earth Science](https://www.nasa.gov/feature/esd/2020/new-projects-explore-connections-between-environment-and-covid-19): Forecasting COVID-19 progression and the next hotspot: Do weather conditions and air quality impact COVID-19 transmission rates and clinical severity? (Collaborator with [Michael J. Garay](https://science.jpl.nasa.gov/people/Garay/), [Krzysztof M. Gorski](https://science.jpl.nasa.gov/people/Gorski/), [Huikyo Lee](https://dus.jpl.nasa.gov/home/lee/), _NASA JPL_ and [Yulia R. Gel](https://personal.utdallas.edu/~yxg142030/), _UT Dallas_).
 
+**TIES President Appreciation Award**. Given award by [Lelys Bravo de Guenni](https://www.lelysbravo.com), President of [The International Environmetrics Society](http://www.environmetrics.org).
+
 **Postdoctoral Scholar**. [2019 and 2020 ConTex Postdoctoral Fellowship Award](https://contex.utsystem.edu): Surveillance and Prediction of Infectious Diseases via Modern Statistical Approaches on Multisources Information.
 
 **Honorary Guest Distinction**. [Data Science Speciality department](https://www.urp.edu.pe/posgrado/maestrias/ciencia-de-los-datos/), Universidad Ricardo Palma, Peru.
