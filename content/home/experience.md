@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Collaborator / Visiting Researcher"
+  title = "Visiting Scientist"
   company = "NASA JPL Caltech"
   company_url = "https://www.jpl.nasa.gov"
   location = "Pasadena, California, U.S."
@@ -28,7 +28,7 @@ date_format = "Jan 2006"
 #  description = """ """
 
 [[experience]]
-  title = "ConTex Postdoctoral Researcher"
+  title = "Postdoctoral Research Associate"
   company = "University of Texas at Dallas"
   company_url = "https://www.utdallas.edu"
   location = "Dallas, Texas, U.S."
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
 #  description = """ """
 
 [[experience]]
-  title = "Lecturer"
+  title = "Assistant Professor"
   company = "National Technological Institute of Mexico - Campus ITESG"
   company_url = "https://www.itesg.edu.mx"
   location = "Guanajuato, México"
@@ -55,7 +55,7 @@ date_format = "Jan 2006"
 #  description = """ """
 
 [[experience]]
-  title = "Teaching Fellow"
+  title = "Lecturer"
   company = "University of Guanajuato"
   company_url = "https://www.ugto.mx/en/"
   location = "Guanajuato, México"
