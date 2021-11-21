@@ -52,5 +52,5 @@ subtitle = ""
 
 **Publications**. Access my complete list of publications via [Researchgate](https://www.researchgate.net/profile/Ignacio_Segovia-Dominguez), [DBLP](https://dblp.org/pid/80/9882.html) and [Google Scholar](https://scholar.google.com/citations?user=w8oDyT4AAAAJ&hl=en).
 
-**Memberships**. Member of various associations and research networks; e.g. [American Statistical Association (ASA)](https://www.amstat.org/), [Association for Computing Machinery](https://www.acm.org), [Mexican Mathematical Society (SMM)](https://www.smm.org.mx), [Applied Algebraic Topology Research Network (AATRN)](https://topology.ima.umn.edu), etc. Referee for Journals and Conferences; e.g. _IEEE-TR_, _CSDA_, _ACM-TSAS_, ,_IEEE-TASE_, _ACM-GECCO_, etc.
+**Memberships**. Member of various associations and research networks; e.g. [American Statistical Association (ASA)](https://www.amstat.org/), [Association for Computing Machinery](https://www.acm.org), [Mexican Mathematical Society (SMM)](https://www.smm.org.mx), [Applied Algebraic Topology Research Network (AATRN)](https://topology.ima.umn.edu), [Advancing Earth and Space Science (AGU)](https://www.agu.org) etc. Reviewer for Journals and Conferences; e.g. _IEEE-TR_, _CSDA_, _ACM-TSAS_, _IEEE-TASE_, _ACM-GECCO_, _CPC_, etc.
 
