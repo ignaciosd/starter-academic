@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | </title>
+    <link>https://ignaciosd.github.io/project/</link>
+      <atom:link href="https://ignaciosd.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 Oct 2020 19:58:45 -0500</lastBuildDate>
+    <image>
+      <url>https://ignaciosd.github.io/media/icon3.png</url>
+      <title>Projects</title>
+      <link>https://ignaciosd.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Forecasting Covid-19 Dynamics</title>
+      <link>https://ignaciosd.github.io/project/covid-19/</link>
+      <pubDate>Sun, 25 Oct 2020 19:58:45 -0500</pubDate>
+      <guid>https://ignaciosd.github.io/project/covid-19/</guid>
+      <description>&lt;p&gt;This research project focuses on building diverse methods using data-driven machine learning techniques to improve forecasting of COVID-19 dynamics. In particular we are evaluating utility of topological predictors from satellite observations to model the current and future COVID-19 spatio-temporal progression and clinical severity of the disease.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;NASA/JPL - RTI - UTDallas&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Topological Data Analysis of Dynamic Networks</title>
+      <link>https://ignaciosd.github.io/project/dynamic-networks-tda/</link>
+      <pubDate>Sun, 25 Oct 2020 19:58:40 -0500</pubDate>
+      <guid>https://ignaciosd.github.io/project/dynamic-networks-tda/</guid>
+      <description>&lt;p&gt;Our research focuses on constructing new nonparametric methods for anomaly detection on dynamic networks using the emerging tools of topological data analysis. In particular, we describe shapes of complex networks via analysis of simplicial complexes and then track fluctuations of the resulting topological signatures over time. We validate our methods in applications to networks from social sciences, telecommunication and blockchain.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;UoManitoba - PSU - UTDallas&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Computation</title>
+      <link>https://ignaciosd.github.io/project/evolutionary-computation/</link>
+      <pubDate>Sun, 25 Oct 2020 19:58:15 -0500</pubDate>
+      <guid>https://ignaciosd.github.io/project/evolutionary-computation/</guid>
+      <description>&lt;p&gt;We develop formulae for updating parameters of sampling density functions via Geometric Algebra, Systems of ODE, Natural Gradients, Copulas, Bayesian Networks and Statistical Inference. Our current efforts aim to guide the parameter updating via modern strategies from Information Geometry, hence avoiding euclidean-space assumptions.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;CIMAT - UTDallas&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multifractal Analysis</title>
+      <link>https://ignaciosd.github.io/project/multifractal-analysis/</link>
+      <pubDate>Sun, 25 Oct 2020 19:58:09 -0500</pubDate>
+      <guid>https://ignaciosd.github.io/project/multifractal-analysis/</guid>
+      <description>&lt;p&gt;We investigate flexible methodologies to better detect, and correctly model, hidden local trends in time series at different scales. The performance of our methods is assessed with extensive numerical experiments on benchmarks, but also is used to detect and characterize the scalar properties of the daily precipitation time series in meteorological stations of tropical regions.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;UG - UTDallas&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

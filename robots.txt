@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ignaciosd.github.io/sitemap.xml

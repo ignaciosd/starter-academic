@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | </title>
+    <link>https://ignaciosd.github.io/publication-type/0/</link>
+      <atom:link href="https://ignaciosd.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 Oct 2020 12:45:42 -0500</lastBuildDate>
+    <image>
+      <url>https://ignaciosd.github.io/media/icon3.png</url>
+      <title>0</title>
+      <link>https://ignaciosd.github.io/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>List of publications</title>
+      <link>https://ignaciosd.github.io/publication/new-eda/</link>
+      <pubDate>Sun, 25 Oct 2020 12:45:42 -0500</pubDate>
+      <guid>https://ignaciosd.github.io/publication/new-eda/</guid>
+      <description>&lt;p&gt;Access my complete list of publications via &lt;strong&gt;Researchgate&lt;/strong&gt;, &lt;strong&gt;DBLP&lt;/strong&gt; and &lt;strong&gt;Google Scholar&lt;/strong&gt; websites; the url-links are conveniently located in my homepage.&lt;/p&gt;
+&lt;p&gt;Member of various associations and research networks; e.g. &lt;a href=&#34;https://topology.ima.umn.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Applied Algebraic Topology Research Network (AATRN)&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Sociedad Matematica Mexicana (SMM)&lt;/em&gt;, &lt;em&gt;American Statistical Association (ASA)&lt;/em&gt;, etc.&lt;/p&gt;
+&lt;p&gt;Referee for Journals and Conferences; e.g. &lt;em&gt;IEEE-TR&lt;/em&gt;, &lt;em&gt;CSDA&lt;/em&gt;, &lt;em&gt;ACM-GECCO&lt;/em&gt;, etc.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

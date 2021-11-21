@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://ignaciosd.github.io/</link>
+      <atom:link href="https://ignaciosd.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 Oct 2020 19:58:45 -0500</lastBuildDate>
+    <image>
+      <url>https://ignaciosd.github.io/media/icon3.png</url>
+      <title></title>
+      <link>https://ignaciosd.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Forecasting Covid-19 Dynamics</title>
+      <link>https://ignaciosd.github.io/project/covid-19/</link>
+      <pubDate>Sun, 25 Oct 2020 19:58:45 -0500</pubDate>
+      <guid>https://ignaciosd.github.io/project/covid-19/</guid>
+      <description>&lt;p&gt;This research project focuses on building diverse methods using data-driven machine learning techniques to improve forecasting of COVID-19 dynamics. In particular we are evaluating utility of topological predictors from satellite observations to model the current and future COVID-19 spatio-temporal progression and clinical severity of the disease.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;NASA/JPL - RTI - UTDallas&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Topological Data Analysis of Dynamic Networks</title>
+      <link>https://ignaciosd.github.io/project/dynamic-networks-tda/</link>
+      <pubDate>Sun, 25 Oct 2020 19:58:40 -0500</pubDate>
+      <guid>https://ignaciosd.github.io/project/dynamic-networks-tda/</guid>
+      <description>&lt;p&gt;Our research focuses on constructing new nonparametric methods for anomaly detection on dynamic networks using the emerging tools of topological data analysis. In particular, we describe shapes of complex networks via analysis of simplicial complexes and then track fluctuations of the resulting topological signatures over time. We validate our methods in applications to networks from social sciences, telecommunication and blockchain.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;UoManitoba - PSU - UTDallas&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Computation</title>
+      <link>https://ignaciosd.github.io/project/evolutionary-computation/</link>
+      <pubDate>Sun, 25 Oct 2020 19:58:15 -0500</pubDate>
+      <guid>https://ignaciosd.github.io/project/evolutionary-computation/</guid>
+      <description>&lt;p&gt;We develop formulae for updating parameters of sampling density functions via Geometric Algebra, Systems of ODE, Natural Gradients, Copulas, Bayesian Networks and Statistical Inference. Our current efforts aim to guide the parameter updating via modern strategies from Information Geometry, hence avoiding euclidean-space assumptions.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;CIMAT - UTDallas&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multifractal Analysis</title>
+      <link>https://ignaciosd.github.io/project/multifractal-analysis/</link>
+      <pubDate>Sun, 25 Oct 2020 19:58:09 -0500</pubDate>
+      <guid>https://ignaciosd.github.io/project/multifractal-analysis/</guid>
+      <description>&lt;p&gt;We investigate flexible methodologies to better detect, and correctly model, hidden local trends in time series at different scales. The performance of our methods is assessed with extensive numerical experiments on benchmarks, but also is used to detect and characterize the scalar properties of the daily precipitation time series in meteorological stations of tropical regions.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;UG - UTDallas&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>List of publications</title>
+      <link>https://ignaciosd.github.io/publication/new-eda/</link>
+      <pubDate>Sun, 25 Oct 2020 12:45:42 -0500</pubDate>
+      <guid>https://ignaciosd.github.io/publication/new-eda/</guid>
+      <description>&lt;p&gt;Access my complete list of publications via &lt;strong&gt;Researchgate&lt;/strong&gt;, &lt;strong&gt;DBLP&lt;/strong&gt; and &lt;strong&gt;Google Scholar&lt;/strong&gt; websites; the url-links are conveniently located in my homepage.&lt;/p&gt;
+&lt;p&gt;Member of various associations and research networks; e.g. &lt;a href=&#34;https://topology.ima.umn.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Applied Algebraic Topology Research Network (AATRN)&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Sociedad Matematica Mexicana (SMM)&lt;/em&gt;, &lt;em&gt;American Statistical Association (ASA)&lt;/em&gt;, etc.&lt;/p&gt;
+&lt;p&gt;Referee for Journals and Conferences; e.g. &lt;em&gt;IEEE-TR&lt;/em&gt;, &lt;em&gt;CSDA&lt;/em&gt;, &lt;em&gt;ACM-GECCO&lt;/em&gt;, etc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Talk Wow</title>
+      <link>https://ignaciosd.github.io/talk/a-talk-wow/</link>
+      <pubDate>Sun, 25 Oct 2020 12:43:07 -0500</pubDate>
+      <guid>https://ignaciosd.github.io/talk/a-talk-wow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News Update</title>
+      <link>https://ignaciosd.github.io/post/news-update/</link>
+      <pubDate>Sun, 25 Oct 2020 12:25:31 -0500</pubDate>
+      <guid>https://ignaciosd.github.io/post/news-update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://ignaciosd.github.io/news/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0600</pubDate>
+      <guid>https://ignaciosd.github.io/news/</guid>
+      <description>
+
+
+
+
+
+
+
+
+&lt;p&gt;&amp;laquo;&amp;laquo;&amp;laquo;&amp;lt; HEAD&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MEDIA APPEARANCE&lt;/strong&gt; &lt;a href=&#34;https://www.dallasnews.com/news/2021/10/15/ut-dallas-researchers-connect-texas-air-quality-with-covid-19-severity/&#34;&gt;The Dallas Morning News&lt;/a&gt; and &lt;a href=&#34;https://on.nbcdfw.com/Atwa1ei&#34;&gt;NBC 5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;** November, 2021** New accepted paper at the &lt;a href=&#34;https://aaai.org/Conferences/AAAI-22/iaai-22-call/&#34;&gt;Thirty-Fourth Annual Conference on Innovative Applications of Artificial Intelligence (IAAI-22)&lt;/a&gt;, as an Emerging Application of AI.&lt;/p&gt;
+&lt;p&gt;** November, 2021** TV media appearance in &lt;a href=&#34;https://on.nbcdfw.com/Atwa1ei&#34;&gt;NBC 5&lt;/a&gt;. Many thanks to &lt;a href=&#34;https://www.nbcdfw.com/author/noelle-walker/&#34;&gt;Noelle Walker&lt;/a&gt; and her awesome team!&lt;/p&gt;
+&lt;p&gt;** October, 2021** Media appearance in &lt;a href=&#34;https://www.dallasnews.com/news/2021/10/15/ut-dallas-researchers-connect-texas-air-quality-with-covid-19-severity/&#34;&gt;The Dallas Morning News&lt;/a&gt;, the printed version is highlighted in the &lt;a href=&#34;https://www.dropbox.com/s/wbc8r12f9jxuto1/DMN%2010-18-21.pdf?dl=0&#34;&gt;front page&lt;/a&gt;. Many thanks to &lt;a href=&#34;https://scholar.harvard.edu/jordanwilkerson/home&#34;&gt;Jordan Wilkerson, PH.D&lt;/a&gt; and his awesome team!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;August &amp;amp; September, 2021&lt;/strong&gt; Multiple paper and grant submissions, rebuttals, etc.&lt;/p&gt;
+&lt;p&gt;=======&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;August, 2021&lt;/strong&gt;. Paper presenter at &lt;a href=&#34;https://kdd.org/kdd2021/&#34;&gt;KDD 2021&lt;/a&gt;, research paper &lt;a href=&#34;https://doi.org/10.1145/3447548.3467207&#34;&gt;&amp;ldquo;Does Air Quality Really Impact COVID-19 Clinical Severity: Coupling NASA Satellite Datasets with Geometric Deep Learning&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;b26bcd054c5631017e7358524c8f959b83c69e97&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;July, 2021&lt;/strong&gt;. Invited talk in the &lt;a href=&#34;https://www.siam.org/conferences/cm/program/program-and-abstracts/an21-program-abstracts&#34;&gt;Society for Industrial and Applied Mathematics (SIAM) Annual Meeting (AN21)&lt;/a&gt;, Workshop Celebrating Diversity (WCD): Lessons from Mathematical Modeling of COVID-19; many thanks to &lt;a href=&#34;http://math.gmu.edu/~pseshaiy/&#34;&gt;Padmanabhan Seshaiyer&lt;/a&gt; and the organizers!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;June, 2021&lt;/strong&gt;. New accepted paper at &lt;a href=&#34;https://ecmlpkdd2020.net&#34;&gt;ECML-PKDD 2021&lt;/a&gt;, a pre-published version is already &lt;a href=&#34;https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_951.pdf&#34;&gt;available in their website&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;June, 2021&lt;/strong&gt;. Invited talk in the &lt;a href=&#34;http://www.cmstatistics.org/EcoSta2021/fullprogramme.php&#34;&gt;4th International Conference on Econometrics and Statistics (EcoSta 2021)&lt;/a&gt; at HKUST, Hong Kong; many thanks to &lt;a href=&#34;https://scholar.google.com/citations?user=OQpVg10AAAAJ&amp;amp;hl=en&#34;&gt;Dorcas Ofori-Boateng&lt;/a&gt; and the organizers!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;June, 2021&lt;/strong&gt;. New accepted paper at &lt;a href=&#34;https://kdd.org/kdd2021/&#34;&gt;KDD 2021&lt;/a&gt;, publicly available version soon!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;May, 2021&lt;/strong&gt;. Paper presenter at &lt;a href=&#34;https://www.pakdd2021.org&#34;&gt;PAKDD 2021&lt;/a&gt;, research paper &amp;ldquo;TLife-LSTM: Forecasting Future COVID-19 Progression with Topological Signatures of Atmospheric Conditions&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;May, 2021&lt;/strong&gt;. New accepted paper at &lt;a href=&#34;https://icml.cc&#34;&gt;ICML 2021&lt;/a&gt;, there were 5513 submissions this year!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;April, 2021&lt;/strong&gt;. We got an augmentation for our current award, to forecasting COVID-19 progression, from &lt;a href=&#34;https://nspires.nasaprs.com/external/&#34;&gt;NASA ROSES-2020&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;March, 2020&lt;/strong&gt;. New accepted paper. &lt;a href=&#34;https://doi.org/10.1007/978-3-030-75762-5_17&#34;&gt;TLife-LSTM: Forecasting Future COVID-19 Progression with Topological Signatures of Atmospheric Conditions&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;March, 2021&lt;/strong&gt;. Programme committee member of &lt;a href=&#34;https://gecco-2021.sigevo.org/&#34;&gt;GECCO&lt;/a&gt;; many thanks to the organizers!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;February, 2021&lt;/strong&gt;. Invited talk in the NASA Sounder Discipline Team teleconference; many thanks to Chris Barnet and Joao Teixeira.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;February, 2021&lt;/strong&gt;. Various submissions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;January, 2021&lt;/strong&gt;. Invited talk in the &lt;a href=&#34;https://events.brown.edu/dsi/view/event/event_id/203519&#34;&gt;DSI’s Fair February: Data Science for Social Good&lt;/a&gt; at &lt;a href=&#34;https://www.brown.edu&#34;&gt;Brown University&lt;/a&gt;; many thanks to the organizers!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;January, 2021&lt;/strong&gt;. Successful conference management: &lt;a href=&#34;https://sites.google.com/view/nsfstudentconference2021/home&#34;&gt;NSF Student Conference on COVID19 Modelling &lt;/a&gt;. Many thanks to our colleagues for their collaboration, in particular to local chair &lt;a href=&#34;https://personal.utdallas.edu/~yxg142030/&#34;&gt;Yulia R. Gel&lt;/a&gt; and research assistant &lt;a href=&#34;https://www.linkedin.com/in/rishabhwagh&#34;&gt;Rishabh Wagh&lt;/a&gt;. The conference included contributed talks from undergraduate/graduate students and postdocs from U.S., Spain and Latin America.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;January, 2021&lt;/strong&gt;. My research as postdoctoral fellow, and team member of &lt;a href=&#34;https://personal.utdallas.edu/~yxg142030/&#34;&gt;Prof. Yulia&amp;rsquo;s research group&lt;/a&gt;, is featured in &lt;a href=&#34;https://contex.utsystem.edu/contexere&#34;&gt;ConTexere Magazine 2020&lt;/a&gt;. Thank you, ConTex staff!!!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;December, 2020&lt;/strong&gt;. Got the &lt;a href=&#34;http://www.environmetrics.org/virtual_conference_2020.html&#34;&gt;TIES President Appreciation Award!&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;December, 2020&lt;/strong&gt;. Congratulations to our supervised student &lt;a href=&#34;https://co.linkedin.com/in/luisa-fernanda-restrepo-torres-b17b73a5&#34;&gt;Luisa Fernanda Restrepo Torres&lt;/a&gt;, she graduated from the master&amp;rsquo;s research program at &lt;a href=&#34;https://www.cimat.mx/en&#34;&gt;CIMAT&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;December, 2020&lt;/strong&gt;. Local co-organizer of &lt;a href=&#34;https://sites.google.com/view/nsfstudentconference2021/home&#34;&gt;NSF Student Conference on COVID19 Modelling &lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;November, 2020&lt;/strong&gt;. New Journal Paper. &lt;a href=&#34;https://doi.org/10.1016/j.physa.2020.125611&#34;&gt;A modified Multifractal Detrended Fluctuation Analysis approach for multifractal analysis of precipitation. Physica A: Statistical Mechanics and its Applications.&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;November, 2020&lt;/strong&gt;. Congratulations to &lt;a href=&#34;https://www.linkedin.com/in/rishabhwagh&#34;&gt;Rishabh Wagh&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/zhiwei-zhen-a8a59b180&#34;&gt;Zhiwei Zhen&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/felipeivangutierrezgonzalez/&#34;&gt;Felipe I. Gutierrez&lt;/a&gt;, and &lt;a href=&#34;https://www.linkedin.com/in/hui-sui-5b7571186&#34;&gt;Hui Sui&lt;/a&gt;, for each one of their Student&amp;rsquo;s presentations at &lt;a href=&#34;http://www.environmetrics.org/virtual_conference_2020.html&#34;&gt;2020 Annual Meeting of the International EnviroMetrics Society - TIES2020&lt;/a&gt;. Mentorship. Keep moving forward!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;November, 2020&lt;/strong&gt;. Invited talk in the &lt;a href=&#34;http://www.environmetrics.org/virtual_conference_2020.html&#34;&gt;2020 Annual Meeting of the International EnviroMetrics Society - TIES2020&lt;/a&gt;; many thanks!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;November, 2020&lt;/strong&gt;. Collaborator in the &lt;a href=&#34;https://personal.utdallas.edu/~yxg142030/workshop2020.html&#34;&gt;2020 NSF PIS Workshop for the Algorithms for Modern Power Systems (AMPS) program&lt;/a&gt;; great presentations!, many thanks to all participants.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;November, 2020&lt;/strong&gt;. Collaborator/Visiting Researcher at &lt;a href=&#34;https://www.jpl.nasa.gov&#34;&gt;NASA JPL Caltech&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;November, 2020&lt;/strong&gt;. Invited talk in the &lt;a href=&#34;https://www.itesg.edu.mx&#34;&gt;Technological Week - ISC&lt;/a&gt;; great organization, ITESG staff!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;November, 2020&lt;/strong&gt;. Invited talk in the &lt;a href=&#34;https://jiayuasu.github.io/covid19-workshop/&#34;&gt;COVID-2020 Workshop@ACM SIGSPATIAL 2020&lt;/a&gt;; thank you ACM SIGSPATIAL 2020 staff!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;November, 2020&lt;/strong&gt;. Mention in acknowledgements section of new &lt;a href=&#34;https://personal.utdallas.edu/~yxg142030/SIGNPoliticalRhetoric.pdf&#34;&gt;2020 article in Signifance How Much Can We Trust Our Politicians?&lt;/a&gt;, where &lt;a href=&#34;https://www.iliyan-iliev.com&#34;&gt;Iliyan R. Iliev&lt;/a&gt;, &lt;a href=&#34;https://scholar.google.com/citations?user=J_9UyaEAAAAJ&amp;amp;hl=en&#34;&gt;Xin Huang&lt;/a&gt; and &lt;a href=&#34;https://personal.utdallas.edu/~yxg142030/&#34;&gt;Yulia R. Gel&lt;/a&gt; search for clues through the analysis of political rhetoric&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;October, 2020&lt;/strong&gt;. Invited talk in the &lt;a href=&#34;https://www.awma-ovc.ca&#34;&gt;Ottawa Valley Chapter of the Air &amp;amp; Waste Management Association&lt;/a&gt;; as part of the panel webinar series Environment, Climate Change and Quarantine.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;October, 2020&lt;/strong&gt;. Accepted paper in &lt;a href=&#34;https://dl.acm.org/doi/10.1145/3431843.3431847&#34;&gt;ACM SIGSPATIAL, Volume 12, Number 2: Modeling and Understanding the Spread of COVID-19&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;October, 2020&lt;/strong&gt;. My research as postdoctoral fellow, and team member of &lt;a href=&#34;https://personal.utdallas.edu/~yxg142030/&#34;&gt;Prof. Yulia&amp;rsquo;s research group&lt;/a&gt;, is featured in &lt;a href=&#34;https://myemail.constantcontact.com/The-Latest-News-for-You.html?soid=1126431988479&amp;amp;aid=hUIOW5Wa65w&#34;&gt;ConTex Newsletter - Volume 11&lt;/a&gt;. Thank you ConTex staff!!!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;October, 2020&lt;/strong&gt;. Program Committee member in the &lt;a href=&#34;http://jiayuasu.github.io/covid19-workshop/&#34;&gt;COVID-2020 Workshop ACM SIGSPATIAL 2020&lt;/a&gt; - November 3, 2020, Pacific Time, Online, Seattle.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;October, 2020&lt;/strong&gt;. Results of our joint research &lt;a href=&#34;https://www.rti.org&#34;&gt;RTI&lt;/a&gt;-&lt;a href=&#34;https://www.utdallas.edu&#34;&gt;UTDallas&lt;/a&gt; on forecasting of COVID-19 spread will appear in &lt;a href=&#34;https://www.sigspatial.org/publications/newsletter/&#34;&gt;ACM SIGSPATIAL Newsletter&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;August, 2020&lt;/strong&gt;. Speaker in the &lt;a href=&#34;https://ww2.amstat.org/meetings/jsm/2020/&#34;&gt;Joint Statistical Meeting 2020 Virtual Conference&lt;/a&gt;. Contributed presentation of our research results on Dynamic Networks and TDA.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;August, 2020&lt;/strong&gt;. Invited chair in the &lt;a href=&#34;https://ww2.amstat.org/meetings/jsm/2020/&#34;&gt;Joint Statistical Meeting 2020 Virtual Conference&lt;/a&gt;. Contributed session chair: Time Series Methods.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;June, 2020&lt;/strong&gt;. We awarded a grant to forecasting COVID-19 progression from &lt;a href=&#34;https://nspires.nasaprs.com/external/&#34;&gt;NASA ROSES-2020&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;April, 2020&lt;/strong&gt;. New Journal Paper. &lt;a href=&#34;https://doi.org/10.1016/j.eswa.2019.113080&#34;&gt;Geometric probabilistic evolutionary algorithm&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;April, 2020&lt;/strong&gt; We awarded the COVID-19 RAPID grant from the &lt;a href=&#34;https://www.nsf.gov/div/index.jsp?div=DMS&#34;&gt;NSF-DMS&lt;/a&gt;. Collaborative Research: Operational COVID-19 Forecasting with Multi-Source Information. Yulia R. Gel, UTDallas and Georgiy Bobashev, Research Triangle.&lt;/p&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
